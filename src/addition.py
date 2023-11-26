@@ -1,5 +1,4 @@
 
-#commit 2
 #commit 1
 # This is a test commit
 def add(a, b):
